@@ -12,7 +12,7 @@ Python, Typescript, C#, etc. I would learn them and create personal projects wit
 - 👋 Hi, I’m @redstripez08
 - 👀 I’m interested in Typescript, learning really any language, backend development, and Discord bots
 - 🌱 I’m currently learning Typescript, Python, Javascript, C#, others
-- 📫 How to reach me: Using [athereoandromeda@gmail.com](mailto:athereoandromeda@gmail.com) for now
+- 📫 How to reach me: Using [athereoandromeda@gmail.com](mailto:athereoandromeda@gmail.com), or reaching me through [Twitter](https://twitter.com/Athereo_A)
 <!-- 
 - 💞️ I’m looking to collaborate on ... 
 -->
