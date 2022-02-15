@@ -8,12 +8,15 @@ and I found out that I actually enjoyed coding in it. I started doing my own per
 doing client-side Javascript for my websites. Then I started doing Discord bots with discord.js and found that fun. And now I really enjoy programming Julia,
 Python, Typescript, C#, etc. I would learn them and create personal projects with them.
 
-As of 2022, I've been learning Arduino, C++, Rust, and more low-level languages and concepts. These close-to-bare-metal are pretty interesting and neat.
+I spent a lot of time programming during the COVID-19 quarantine (just look at my activity overview from that period 😅). I learned a lot of new cool stuff during that period, and found out I enjoyed writing lower-level programs more than websites and such. 
+
+As of 2022, I've been learning Arduino, C++, Rust, and more low-level languages and concepts. These close-to-bare-metal projects are pretty interesting and neat.
 
 
+## TL;DR
 - 👋 Hi, I’m @AthereoAndromeda
-- 👀 I’m interested in Typescript, learning really any language, backend development, and Discord bots
-- 🌱 I’m currently learning Typescript, Python, Javascript, C#, others
+- 👀 I’m interested in Typescript, Arduino, Raspberry Pi, learning really any language, backend development, and Discord bots
+- 🌱 I’m currently learning Typescript, Python, Rust, C++, Arduino development, others
 - 📫 How to reach me: Via [e-mail](mailto:athereoandromeda@gmail.com), or reaching me through [Twitter](https://twitter.com/Athereo_A) (preferred)
 <!-- 
 - 💞️ I’m looking to collaborate on ... 
