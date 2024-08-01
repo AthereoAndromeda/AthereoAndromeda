@@ -1,8 +1,37 @@
-# Welcome to my Profile!
+<div align="center">
+  
+  ![cats](https://github.com/AthereoAndromeda/AthereoAndromeda/blob/main/giphy.gif?raw=true)
+  <br/>
+  
+  # I like cats
+</div>
 
-I'm AthereoAndromeda (previously @redstripez08), or Angelo, and I started programming around the start of 2020. And once I learned Git, I joined GitHub on November 2020.
+<br/>
+<br/>
 
-## Short History
+
+# Me
+I'm AthereoAndromeda or Angelo (previously @redstripez08) and I started programming around the start of 2020. 
+
+## How I Got Here
+`2020` - School taught me HTML, CSS, JS. And some Lua  
+`2021` - Node.js, Python, Julia, Discord bots, Arduino  
+`2022-2023` - Rust, Typescript, etc.  
+`2024` - NixOS  
+
+## Things I like
+- CATS !!
+- Rust
+- Arduino
+- Raspberry Pi
+- Robotics
+- Configuring the hell out of my NixOS setup
+- cats
+- Trains
+
+<!--
+My old Bio, you treasure hunter
+
 My interest in programming started with a project in ICT about HTML. Just pure HTML without CSS,
 and I found out that I actually enjoyed coding in it. I started doing my own personal projects soon after, with HTML and CSS. After a few months, I started
 doing client-side Javascript for my websites. Then I started doing Discord bots with discord.js and found that fun. And now I really enjoy programming Julia,
@@ -11,16 +40,16 @@ Python, Typescript, C#, etc. I would learn them and create personal projects wit
 I spent a lot of time programming during the COVID-19 quarantine (just look at my activity overview from that period 😅). I learned a lot of new cool stuff during that period, and found out I enjoyed writing lower-level programs more than websites and such. 
 
 As of 2022, I've been learning Arduino, C++, Rust, and more low-level languages and concepts. These close-to-bare-metal projects are pretty interesting and neat.
-
+-->
 
 ## TL;DR
 - 👋 Hi, I’m @AthereoAndromeda
-- 👀 I’m interested in Typescript, Arduino, Raspberry Pi, learning really any language, backend development, and Discord bots
-- 🌱 I’m currently learning Typescript, Python, Rust, C++, Arduino development, others
+- 👀 I’m interested in Rust, NixOS, Arduinos, Raspberry Pi, Robotics, Low Level stuff
 - 📫 How to reach me: Via [e-mail](mailto:athereoandromeda@gmail.com), or reaching me through [Twitter](https://twitter.com/Athereo_A) (preferred)
 <!-- 
 - 💞️ I’m looking to collaborate on ... 
 -->
+
 
 <!---
 redstripez08/redstripez08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
