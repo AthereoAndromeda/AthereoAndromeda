@@ -46,11 +46,16 @@ As of 2022, I've been learning Arduino, C++, Rust, and more low-level languages 
 - 👋 Hi, I’m @AthereoAndromeda
 - 👀 I’m interested in Rust, NixOS, Arduinos, Raspberry Pi, Robotics, Low Level stuff
 - 📫 How to reach me (Sorted by where I'm most active):
+  - [e-mail](mailto:athereoandromeda@gmail.com) | athereoandromeda@gmail.com
   - [Matrix](https://matrix.to/#/@athereo_andromeda:matrix.org) | @athereo_andromeda:matrix.org
-  - [Mastodon](https://mastodon.social/@AthereoAndromeda)
-  - [e-mail](mailto:athereoandromeda@gmail.com)
-  - [Twitter/X](https://twitter.com/Athereo_A) (I don't rlly use this at all anymore)
+  - [Mastodon](https://mastodon.social/@AthereoAndromeda) | @AthereoAndromeda@mastodon.social
+
+
+    
 <!-- 
+  - ~~[Twitter/X](https://twitter.com/Athereo_A)~~ (I don't rlly use this at all anymore)
+
+  
 - 💞️ I’m looking to collaborate on ... 
 -->
 
