@@ -7,30 +7,27 @@
 </div>
 
 <br/>
-<br/>
 
 
 # Me
 I'm AthereoAndromeda or Angelo (previously @redstripez08) and I started programming around the start of 2020. 
+
+### My likes are:
+- 🦀 Rust
+- ❄️ NixOS
+- 🤖 Hobbyist robotics
+- 🔌 Embedded systems and microcontrollers
+- 🚄 Public transit enthusiast/urbanist
+- 🐾 My dogs and cats
+
+<!--
+My old Bio, you treasure hunter
 
 ## How I Got Here
 `2020` - School taught me HTML, CSS, JS. And some Lua  
 `2021` - Node.js, Python, Julia, Discord bots, Arduino  
 `2022-2023` - Rust, Typescript, etc.  
 `2024` - NixOS  
-
-## Things I like
-- CATS !!
-- Rust
-- Arduino
-- Raspberry Pi
-- Robotics
-- Configuring the hell out of my NixOS setup
-- cats
-- Trains
-
-<!--
-My old Bio, you treasure hunter
 
 My interest in programming started with a project in ICT about HTML. Just pure HTML without CSS,
 and I found out that I actually enjoyed coding in it. I started doing my own personal projects soon after, with HTML and CSS. After a few months, I started
